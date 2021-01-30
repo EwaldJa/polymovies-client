@@ -1,6 +1,6 @@
-#Client VueJS Poly'Movies
+# Client VueJS Poly'Movies
 
-###Ewald Janin & Félix Martelin - WebServices 2020/2021
+### Ewald Janin & Félix Martelin - WebServices 2020/2021
 
 Ce repository est un client [VueJS](https://vuejs.org) réalisé dans le cadre de notre cours de WebServices à Polytech Lyon.
 
